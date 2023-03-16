@@ -61,7 +61,9 @@ main:hover article{
 }
 footer{
 	color: white;
-	background-color: #b7b102;
+	background-color: #27c4f3;
+	font-size: calc(16px + 1vw);
+	text-shadow: 0 5px 12px rgba(0, 0, 0,.3);
 	display: flex;
 	justify-content: center;
 	padding: 2rem;
