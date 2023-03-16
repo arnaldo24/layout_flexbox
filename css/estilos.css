@@ -44,6 +44,20 @@ nav li:hover{
 }
 main{
 	flex-grow:1; 
+	padding: .5rem;
+}
+main .row{
+
+	width: 50%;
+}
+main article{
+	background-color: #e1dede;
+	box-shadow: 0 5px 12px rgba(0 0 0 / .2);
+	padding: 1rem;
+}
+main:hover article{
+	background-color: #f3d4d4;
+	box-shadow: 0 3px 12px rgba(0 0 0 / .3);
 }
 footer{
 	color: white;
