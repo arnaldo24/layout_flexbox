@@ -26,3 +26,16 @@ header{
 	background-color: #27c4f3;
 	padding: 2rem;
 }
+nav{
+	background-color:orange;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+nav ul{
+	display: flex;
+}
+nav li{
+	padding: .8rem 2rem;
+}
