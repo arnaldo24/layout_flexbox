@@ -39,3 +39,13 @@ nav ul{
 nav li{
 	padding: .8rem 2rem;
 }
+main{
+	flex-grow:1; 
+}
+footer{
+	color: white;
+	background-color: #b7b102;
+	display: flex;
+	justify-content: center;
+	padding: 2rem;
+}
