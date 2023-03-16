@@ -39,6 +39,9 @@ nav ul{
 nav li{
 	padding: .8rem 2rem;
 }
+nav li:hover{
+	background-color: red;
+}
 main{
 	flex-grow:1; 
 }
