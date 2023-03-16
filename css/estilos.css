@@ -4,6 +4,7 @@
 	padding: 0;
 }
 body, html{
+	font-family: sans-serif;
 	font-size: 16px;
 	min-height: 100vh;
 }
@@ -15,10 +16,13 @@ a{
 }
 body{
 	display: flex;
-	justify-content: center;
+	justify-content: flex-start;
 	flex-direction: column;
 }
 
 header{
+	color: white;
+	font-size: 35px;
+	background-color: #27c4f3;
 	padding: 2rem;
 }
